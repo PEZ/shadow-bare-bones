@@ -1,6 +1,6 @@
 # Bare Bones shadow-cljs + reagent
 
-This is a mini-project to quickly get started with ClojureScript for hacking on a browser app. The project is using:
+This is a mini-project to quickly get started with [ClojureScript](https://clojurescript.org) for hacking on a browser app. The project is using:
 
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) for building/compiling and hotreloading ClojureScript
 * [Reagent](https://reagent-project.github.io/) - a most excellent ReactJS wrapper.
