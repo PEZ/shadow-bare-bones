@@ -23,7 +23,7 @@ This is a mini-project to quickly get started with [ClojureScript](https://cloju
    1. Select to start the `:app` build (note, you need to tick the checkbox)
       * The Jack-in Terminal opens, showing the progress, when the app build is complete, you'll get a prompt asking for which build to concect tp.
    1. Select to connect to the `:app` build
-   1. Open the app in the browser on http://localhost:87000
+   1. Open the app in the browser on http://localhost:8700
 
 You should see something like this:
 
