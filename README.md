@@ -5,8 +5,8 @@ This is a mini-project to quickly get started with [ClojureScript](https://cloju
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) for building/compiling and hotreloading ClojureScript
 * [Reagent](https://reagent-project.github.io/) - a most excellent ReactJS wrapper.
 
-When you have the project on your machine:
-
+0. Have nodejs installed (also in WSL, if you are using that)
+1. Copy the project template to your machine
 1. Install npm dependencies
    ```
    npm i
