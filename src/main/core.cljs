@@ -20,3 +20,13 @@
 
 (defn ^:dev/before-load stop []
   (js/console.log "stop"))
+
+(comment
+  ;; Evaluate these forms to see that the REPL is working
+  (str "Hello" "world" "!")
+  (js/alert "42") ;; You need to dismiss the alert in the browser
+                  ;; To unlock the REPL for more evaluations
+  ;; If you don't know how to evaluate forms, and youare using Calva,
+  ;; see https://calva.io/evaluation/
+  :rcf)
+
