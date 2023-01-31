@@ -49,19 +49,19 @@ The browser app is encouraging you to edit it. In the file you loaded, [./src/ma
 
 If you are new to Calva and/or Clojure, please consider opening a new VS Code window and issue the VS Code command: **Calva: Fire up the Getting Started REPL**. See [https://calva.io/getting-started/#theres-a-getting-started-repl](https://calva.io/getting-started/#theres-a-getting-started-repl) for what to expect.
 
-## Ask for help
-
-Some beginner resources:
+More beginner resources:
 
 * [Learn ClojureScript](https://www.learn-clojurescript.com/)
 * [A collection of Clojure learning materials](https://gist.github.com/ssrihari/0bf159afb781eef7cc552a1a0b17786f)
 
-Please join the [Clojurians Slack](http://clojurians.net) to get help getting started. Some channels to visit/join:
+## Ask for help
 
-* `#beginners`
-* `#clojurescript`
-* `#shadow-cljs`
-* `#reagent`
-* `#calva`
+* Please join the [Clojurians Slack](http://clojurians.net) to get help getting started. Some channels to visit/join:
+  * `#beginners`
+  * `#clojurescript`
+  * `#shadow-cljs`
+  * `#reagent`
+  * `#calva`
+* Friendly help also available at [ClojureVerse](https://clojureverse.org/)
 
 Happy hacking!
