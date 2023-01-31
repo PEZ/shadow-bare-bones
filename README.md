@@ -51,10 +51,10 @@ If you are new to Calva and/or Clojure, please consider opening a new VS Code wi
 
 ## Ask for help
 
-Links to some excellent beginner resources:
+Some beginner resources:
 
-* [An opinionated list of excellent Clojure learning materials](https://gist.github.com/ssrihari/0bf159afb781eef7cc552a1a0b17786f)
 * [Learn ClojureScript](https://www.learn-clojurescript.com/)
+* [A collection of Clojure learning materials](https://gist.github.com/ssrihari/0bf159afb781eef7cc552a1a0b17786f)
 
 Please join the [Clojurians Slack](http://clojurians.net) to get help getting started. Some channels to visit/join:
 
